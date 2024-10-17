@@ -1,2 +1,7 @@
 # Discord-Token-Connection
-leaks access tokens for all connected accounts from a discord user profile using the provided user token.
+
+Leaks access tokens for all connected accounts from a Discord user profile using the provided user token.
+
+## Updates
+
+- **Added Pretty Printing**: The leaked access tokens are now shown in a clearer format.
